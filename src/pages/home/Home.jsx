@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.scss';
-import HeroBanner from './heroBanner/heroBanner';
+import HeroBanner from './heroBanner/HeroBanner';
 import Trending from './tending/Trending';
 import Popular from './popular/Popular';
 import TopRated from './topRated/TopRated';
