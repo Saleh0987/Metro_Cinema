@@ -8,9 +8,9 @@
 - Api
 - Redux 
 - SCSS.
-
+- localStorage
 
 # Link
-https://metro-cinema.vercel.app/home
+https://metro-cinema.vercel.app/
 
 ![preview img](/Prev_Img.png)
