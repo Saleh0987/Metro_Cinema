@@ -12,6 +12,6 @@
 - crypto-js
 
 # Link
-https://metro-cinema.vercel.app/
+https://metrocin.vercel.app/
 
 ![preview img](/Prev_Img.png)
