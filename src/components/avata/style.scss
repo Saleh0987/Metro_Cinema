@@ -1,0 +1,15 @@
+
+.spinner-ava {
+ border: 4px solid #f89e00;
+ width: 24px;
+ height: 24px;
+ border-radius: 50%;
+ border-left-color: rgb(13, 133, 13);
+ animation: spin 1s infinite linear;
+}
+
+@keyframes spin {
+ to {
+  transform: rotate(360deg);
+ }
+}

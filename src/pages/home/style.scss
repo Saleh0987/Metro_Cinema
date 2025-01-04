@@ -1,0 +1,15 @@
+.crouselSection{
+  position: relative;
+  margin-bottom: 70px;
+  & > .contentWrapper{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.crouselTitle{
+  font-size: 24px;
+  color: #fff;
+  font-weight: normal;
+}
+}
